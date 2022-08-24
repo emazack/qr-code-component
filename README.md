@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://emazack.github.io/qr-code-component/). 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 ## Table of contents
 
@@ -19,13 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-Take a look
 ![Sample scrennshot](/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/emazack/qr-code-component)
-- Live Site URL: [Add live site URL here](https://emazack.github.io/qr-code-component/)
+- Solution URL: [Github repo](https://github.com/emazack/qr-code-component)
+- Live Site URL: [Live website](https://emazack.github.io/qr-code-component/)
 - QR code to live solution ;) [Solution QR code website](/qrcode_emazack.github.io.png)
 
 ## My process
@@ -42,7 +41,6 @@ Take a look
 - CSS properties
 
 **Layout**
-The designs were created to the following widths:
 
 - Mobile: 375px
 - Desktop: 1440px
