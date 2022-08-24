@@ -35,6 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Google fonts](https://fonts.google.com)
 - [Git](https://git-scm.com/)
 - [Github Pages](https://pages.github.com/)
+- [Visual studio code](https://code.visualstudio.com/)
 
 ### What I learned
 
