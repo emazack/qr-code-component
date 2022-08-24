@@ -32,11 +32,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - [Google fonts](https://fonts.google.com)
+- [Git](https://git-scm.com/)
+- [Github Pages](https://pages.github.com/)
 
 ### What I learned
 
 - HTML5 structure
 - CSS properties
+- Images handling
+- How to put online a project with Github Pages
 
 **Layout**
 
