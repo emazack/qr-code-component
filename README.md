@@ -1,6 +1,6 @@
 # QR code component
 
-This is a QR component card.
+This is a QR component card. This component expose a qr code image; It's a build for be visually present in all viewport from 375 to 1440 without responsivness problems.
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 ## Table of contents
@@ -71,4 +71,3 @@ The idea is to create a functionality able to expose a personalized QR code dire
 - Github - [emazack](https://github.com/emazack)
 - Linkedin EN - [@emazack](https://www.linkedin.com/in/emazack/?locale=en_US)
 - Linkedin IT - [@emazack](https://www.linkedin.com/in/emazack)
-
