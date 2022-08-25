@@ -42,7 +42,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML5 structure
 - CSS properties
 - Images handling
-- How to put online a project with Github Pages
+- How to deploy a project with Github Pages
 
 **Layout**
 
