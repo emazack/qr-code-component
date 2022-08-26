@@ -68,7 +68,6 @@ Using rem and em units. They are flexible, specially for font size better to use
 ```
 Best practice is to use the simplest selector possible while maintaining the minimum required specificity. As a rule, if a selector will work without it being **nested** then do not nest it. That is to say, how quickly a browser can match the selectors your write in CSS up with the nodes it finds in the DOM.
 
-
 **Layout**
 
 - Mobile: 375px
