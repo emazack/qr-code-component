@@ -44,6 +44,31 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Images handling
 - How to deploy a project with Github Pages
 
+HTML5 landmark elements are used to improve navigation experience on your site for users of assistive technology.
+```html
+    <main>
+        <img >
+          <h3>
+          </h3>
+          <p>
+          </p>
+    </main>
+```
+The alternate text is needed on this image. The alternate text should indicate where the Qr code navigate the user like
+```html
+<img class="qr-code-image" src="../qr-code-component/images/image-qr-code.png" alt="QR code to frontend mentor">
+```
+Using rem and em units. They are flexible, specially for font size better to use rem. If your web content font sizes are set in absolute units, such as pixels, the user will not be able to re-size the text or control the font size based on their needs. Relative units “stretch” according to the screen size and/or user’s preferred font size, and work on a large range of devices
+
+```css
+.description { 
+    font-size: 0.938rem;
+    letter-spacing: 0.012rem;
+}
+```
+Best practice is to use the simplest selector possible while maintaining the minimum required specificity. As a rule, if a selector will work without it being **nested** then do not nest it. That is to say, how quickly a browser can match the selectors your write in CSS up with the nodes it finds in the DOM.
+
+
 **Layout**
 
 - Mobile: 375px
