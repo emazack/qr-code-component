@@ -18,7 +18,7 @@ This is a QR component card. This component expose a qr code image; It works in 
 
 ### Screenshot
 
-![Sample scrennshot](/screenshot.png)
+![Sample screenshot](/screenshot.png)
 
 ### Links
 
